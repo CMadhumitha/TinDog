@@ -13,4 +13,5 @@ The main framework used in building TinDog website is Bootstrap and its Responsi
 * Font Awesome
 * 
 ## To view my ToDo-List
-<a href="https://cmadhumitha.github.io/TinDog/" target="_blank"><h3>📌Click here📎</h3></a>
+### [📌Click here📎](https://cmadhumitha.github.io/TinDog/)
+
